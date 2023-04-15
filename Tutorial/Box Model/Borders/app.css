@@ -1,0 +1,59 @@
+div {
+    border: 5px solid black;
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    align-items: center;
+}
+
+
+
+#headingContainer {
+    border-width: 5px;
+    border-style: solid;
+    border-color: blueviolet;
+    border-radius: 2px;
+}
+
+#container {
+    border: 2px solid black;
+    width: fit-content;
+    height: 50px;
+}
+
+.insideBox {
+    border: 2px dotted gold;
+}
+
+#paddingContianer {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 40px;
+}
+
+#marginContainer {
+    border: 2px groove darkgoldenrod;
+    margin: 20px;
+    margin-bottom: 100px;
+}
+
+#normalBox {
+    background: blue;
+    border: 2px solid black;
+    margin:20px;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+
+}
+
+#alterBox {
+    background: blue;
+    border: 2px solid black;
+    margin:20px;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+
+}

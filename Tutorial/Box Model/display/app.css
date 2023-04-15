@@ -1,0 +1,14 @@
+h1 {
+   
+    border: 20px solid black;
+    display: inline;
+    margin: 100px;
+}
+
+span {
+    border: 20px solid black;
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+}
