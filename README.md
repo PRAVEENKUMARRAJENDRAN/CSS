@@ -5,4 +5,4 @@ A complete Tutorial of CSS Concepts
 
 
 Projects
-1)Artist Portfolio 
+1)Artist Portfolio - Completed

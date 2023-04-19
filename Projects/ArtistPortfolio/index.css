@@ -33,5 +33,60 @@ h1 {
 }
 
 a.active {
+    border-bottom: 1px solid blacke;
+}
+
+.gallery {
+    padding: 16px;
+  }
+
+.cards {
+    width: 49.75%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 16px;
+}
+
+.cards img {
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.cards img:hover {
+    opacity: 0.9;
+}
+
+.cards h2{
+    display: inline-block;
+    margin: 8px 0 16px 0;
+    font-weight: 300;
+}
+
+.about {
+    width: 40%;
+    min-width: 600px;
+    margin: 100px 0 100px 200px;
+
+}
+
+.about h3 {
+    font-weight: 300px;
+    font-size: 40px;
+}
+
+.contact {
+    margin-top: 100px;
+}
+
+.contact p {
+    margin : 0;
+    font-size: 20px;
+}
+
+.cta {
     border-bottom: 1px solid black;
+    display: inline-block;
+    margin-top: 0;
+    padding-top: 8px;
 }
